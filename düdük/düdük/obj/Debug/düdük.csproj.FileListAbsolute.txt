@@ -1,0 +1,13 @@
+C:\Users\emirhan\source\repos\düdük\düdük\bin\Debug\düdük.exe.config
+C:\Users\emirhan\source\repos\düdük\düdük\bin\Debug\düdük.exe
+C:\Users\emirhan\source\repos\düdük\düdük\bin\Debug\düdük.pdb
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.csproj.AssemblyReference.cache
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.Form1.resources
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.Properties.Resources.resources
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.csproj.GenerateResource.cache
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.csproj.CoreCompileInputs.cache
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.exe
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.pdb
+C:\Users\emirhan\source\repos\düdük\düdük\bin\Debug\tr-TR\düdük.resources.dll
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\düdük.Form1.tr-TR.resources
+C:\Users\emirhan\source\repos\düdük\düdük\obj\Debug\tr-TR\düdük.resources.dll
